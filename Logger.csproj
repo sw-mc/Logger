@@ -4,6 +4,16 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>SkyWing.Logger</PackageId>
+        <Title>Logger</Title>
+        <Authors>Cosmic5173</Authors>
+        <Description>Utility library to log messages to console, used by SkyWing and related projects.</Description>
+        <Copyright>Copyright 2022 SkyWing</Copyright>
+        <PackageLicenseUrl>https://mit-license.org/</PackageLicenseUrl>
+        <RepositoryUrl>github.com/sw-mc/Logger</RepositoryUrl>
+        <RepositoryType>library</RepositoryType>
+        <PackageTags>Utils, Console, Logging</PackageTags>
     </PropertyGroup>
 
 </Project>
